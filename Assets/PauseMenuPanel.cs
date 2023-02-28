@@ -27,15 +27,5 @@ namespace CosmoSimClone
             gameObject.SetActive(false);
             Time.timeScale = 1;
         }
-        /*
-
-        public void OnButtonMainMenu()
-        {
-            gameObject.SetActive(false);
-            Time.timeScale = 1;
-
-            SceneManager.LoadScene(LevelSequenceController.MainMenuScene);
-        }
-        */
     }
 }
