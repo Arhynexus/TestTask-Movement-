@@ -2,4 +2,5 @@
 
 W A S D - movement
 space - jump
-L.Shift - Run
+L.Shift - run
+movement + jump + run = forced jump;
